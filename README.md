@@ -92,13 +92,9 @@
        "version": "2.5.0",
       "url": "https://github.com/twigphp/Twig"
     },
-    "twig": {
-       "version": "2.5.0",
-      "url": "https://github.com/twigphp/Twig"
-    },
-    "cloudsql": {
-       "version": "web",
-      "url": "https://cloud.google.com/php/getting-started/using-cloud-sql-with-mysql"
+    "aws": {
+       "version": "3",
+      "url": "https://github.com/aws/aws-sdk-php"
     }
 }
 ```
