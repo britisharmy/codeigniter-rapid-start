@@ -44,6 +44,10 @@
 	  "version": "3",
       "url": "https://github.com/benedmunds/CodeIgniter-Ion-Auth"
     },
+    "ion-auth-2fa": {
+	  "version": "3",
+      "url": "https://github.com/benedmunds/CodeIgniter-Ion-Auth"
+    },
     "ihavecookies": {
 	  "version": "0.3.2",
       "url": "https://github.com/ketanmistry/ihavecookies"
