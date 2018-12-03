@@ -107,6 +107,10 @@
     "google-analytics": {
        "version": "web",
       "url": "https://analytics.google.com/analytics/web/"
+    },
+     "zend-guard": {
+       "version": "web",
+      "url": "http://www.zend.com/en/products/zend-guard#requirements"
     }
 }
 ```
