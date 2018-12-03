@@ -67,6 +67,14 @@
     "gmaps": {
        "version": "0.4.25",
       "url": "https://github.com/hpneo/gmaps"
+    },
+    "cronjobs": {
+       "version": "stackoverflow-answer",
+      "url": "https://stackoverflow.com/questions/19269566/how-to-set-cron-job-url-for-codeigniter"
+    },
+     "omnipay": {
+       "version": "3.0.2",
+      "url": "https://github.com/thephpleague/omnipay"
     }
 }
 ```
