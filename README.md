@@ -99,6 +99,14 @@
     "aws": {
        "version": "3",
       "url": "https://github.com/aws/aws-sdk-php"
-    }
+    },
+    "gmail-business": {
+       "version": "web",
+      "url": "https://gsuite.google.com/products/gmail/"
+    },
+    "google-analytics": {
+       "version": "web",
+      "url": "https://analytics.google.com/analytics/web/"
+    },
 }
 ```
