@@ -43,6 +43,18 @@
     "ion-auth": {
 	  "version": "3",
       "url": "https://github.com/benedmunds/CodeIgniter-Ion-Auth"
+    },
+    "ihavecookies": {
+	  "version": "0.3.2",
+      "url": "https://github.com/ketanmistry/ihavecookies"
+    },
+    "codeigniter-restserver": {
+	  "version": "3.0",
+      "url": "https://github.com/chriskacerguis/codeigniter-restserver"
+    },
+    "guzzle": {
+	  "version": "6.x",
+      "url": "https://github.com/guzzle/guzzle"
     }
 }
 ```
