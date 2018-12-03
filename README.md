@@ -122,7 +122,7 @@
     },
     "embedded-google-document-viewer": {
        "version": "web",
-      "url": "https://stackoverflow.com/questions/36592508/cannot-embed-doc-docx-files-in-google-doc-viewer"
+      "url": "https://developers.google.com/drive/api/v3/integrate-open#open_files_using_the_open_with_contextual_menu"
     }
 }
 ```
