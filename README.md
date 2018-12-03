@@ -1,5 +1,5 @@
 # codeigniter-rapid-start
-
+```
 {
     "name": "Codeigniter Rapid Start Dependencies",
     "description": "",
@@ -37,3 +37,4 @@
       "url": "https://github.com/pusher/pusher-http-php"
     }
 }
+```
