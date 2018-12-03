@@ -75,6 +75,18 @@
      "omnipay": {
        "version": "3.0.2",
       "url": "https://github.com/thephpleague/omnipay"
+    },
+     "cloudflare": {
+       "version": "4.0",
+      "url": "https://github.com/cloudflare/cloudflare-php"
+    },
+     "tawk.to": {
+       "version": "web",
+      "url": "https://www.tawk.to/"
+    },
+     "mailgun": {
+       "version": "2.6.0",
+      "url": "https://github.com/mailgun/mailgun-php"
     }
 }
 ```
