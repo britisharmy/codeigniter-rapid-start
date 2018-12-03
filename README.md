@@ -107,6 +107,6 @@
     "google-analytics": {
        "version": "web",
       "url": "https://analytics.google.com/analytics/web/"
-    },
+    }
 }
 ```
