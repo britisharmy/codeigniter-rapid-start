@@ -59,6 +59,14 @@
     "php-amqplib": {
 	  "version": "2.8.1",
       "url": "https://github.com/php-amqplib/php-amqplib"
+    },
+    "recaptcha": {
+       "version": "1.2.1",
+      "url": "https://github.com/google/recaptcha"
+    },
+    "gmaps": {
+       "version": "0.4.25",
+      "url": "https://github.com/hpneo/gmaps"
     }
 }
 ```
