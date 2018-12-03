@@ -35,6 +35,10 @@
 	"pusher": {
 	  "version": "3.0",
       "url": "https://github.com/pusher/pusher-http-php"
+    },
+    "twilio": {
+	  "version": "5.26.0",
+      "url": "https://github.com/twilio/twilio-php"
     }
 }
 ```
