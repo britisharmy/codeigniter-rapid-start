@@ -39,6 +39,10 @@
     "twilio": {
 	  "version": "5.26.0",
       "url": "https://github.com/twilio/twilio-php"
+    },
+    "ion-auth": {
+	  "version": "3",
+      "url": "https://github.com/benedmunds/CodeIgniter-Ion-Auth"
     }
 }
 ```
