@@ -119,6 +119,10 @@
     "embedded-google-document-viewer": {
        "version": "web",
       "url": "https://developers.google.com/drive/api/v3/integrate-open#open_files_using_the_open_with_contextual_menu"
+    },
+    "user-impersonation": {
+       "version": "web",
+      "url": "https://gist.github.com/openqubit/93502b37ef04a71555dba3ea309f1fc4"
     }
 }
 ```
