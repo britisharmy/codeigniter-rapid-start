@@ -87,6 +87,18 @@
      "mailgun": {
        "version": "2.6.0",
       "url": "https://github.com/mailgun/mailgun-php"
+    },
+     "twig": {
+       "version": "2.5.0",
+      "url": "https://github.com/twigphp/Twig"
+    },
+    "twig": {
+       "version": "2.5.0",
+      "url": "https://github.com/twigphp/Twig"
+    },
+    "cloudsql": {
+       "version": "web",
+      "url": "https://cloud.google.com/php/getting-started/using-cloud-sql-with-mysql"
     }
 }
 ```
