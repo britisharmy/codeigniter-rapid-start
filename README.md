@@ -115,6 +115,10 @@
      "zend-guard": {
        "version": "web",
       "url": "http://www.zend.com/en/products/zend-guard#requirements"
+    },
+    "user-impersonation": {
+       "version": "web",
+      "url": "https://gist.github.com/openqubit/93502b37ef04a71555dba3ea309f1fc4"
     }
 }
 ```
