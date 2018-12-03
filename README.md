@@ -56,9 +56,17 @@
 	  "version": "6.x",
       "url": "https://github.com/guzzle/guzzle"
     },
-    "php-amqplib": {
-	  "version": "2.8.1",
-      "url": "https://github.com/php-amqplib/php-amqplib"
+    "aws-lambda": {
+	  "version": "3.0",
+      "url": "https://github.com/aws/aws-sdk-php"
+    },
+    "aws-sqs": {
+	  "version": "3.0",
+      "url": "https://github.com/aws/aws-sdk-php"
+    },
+    "aws-rds": {
+	  "version": "3.0",
+      "url": "https://github.com/aws/aws-sdk-php"
     },
     "recaptcha": {
        "version": "1.2.1",
@@ -67,10 +75,6 @@
     "gmaps": {
        "version": "0.4.25",
       "url": "https://github.com/hpneo/gmaps"
-    },
-    "cronjobs": {
-       "version": "stackoverflow-answer",
-      "url": "https://stackoverflow.com/questions/19269566/how-to-set-cron-job-url-for-codeigniter"
     },
      "omnipay": {
        "version": "3.0.2",
