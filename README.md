@@ -55,6 +55,10 @@
     "guzzle": {
 	  "version": "6.x",
       "url": "https://github.com/guzzle/guzzle"
+    },
+    "php-amqplib": {
+	  "version": "2.8.1",
+      "url": "https://github.com/php-amqplib/php-amqplib"
     }
 }
 ```
